@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/julia/github/1-Programming-Introduction-1/C++/Tasks/Task0/01.countTo10'
+relocations:     []
+...
